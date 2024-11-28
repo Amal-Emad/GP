@@ -1,8 +1,4 @@
-# Local training pipeline for "Amal Alkraimeen / Traffic Lights"
-
-This is the local training pipeline (based on Keras / TensorFlow) for your Edge Impulse project [Amal Alkraimeen / Traffic Lights](https://studio.edgeimpulse.com/studio/563333) (https://studio.edgeimpulse.com/studio/563333). Use it to train your model locally or run experiments. Once you're done with experimentation you can push the model back into Edge Impulse, and retrain from there.
-
-## Running the pipeline
+# Local training pipeline for "Amal Alkraimeen "
 
 You run this pipeline via Docker. This encapsulates all dependencies and packages for you.
 
